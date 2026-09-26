@@ -1,6 +1,6 @@
 {
   "step": 1,
-   "repoUrl": "https://github.com/TimoAleph/AlephDefence",
+   "repoUrl": "https://github.com/timoaleph/alephdefence",
    "publicAppUrl": "https://aleph-defence.vercel.app",
   "sampleMarker": "SAMPLE_NOTE_1",
   "judgeIssuer": "https://aleph-judge-production.up.railway.app/defense/judge",
